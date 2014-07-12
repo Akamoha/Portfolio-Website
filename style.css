@@ -446,6 +446,23 @@ footer {
       margin:0 auto;
  }
 
+.project-date {
+    font-size: 20px;
+    font-family: Garamond, arial, helvetica;
+}
+
+.project-heading-container {
+    width: 50%;
+    display: inline-block
+}
+
+.project-date-container {
+    width: 20%;
+    float: right;
+    margin-top: 8px;
+    text-align: right;
+}
+
 .project-thumbnail-thermocalc {
     width: 100%;
 }
@@ -967,6 +984,84 @@ th {
   padding: 0;
 }
 
+#buttons {
+    float:right;
+    text-align: center;
+}
 
+.btn {
+  border-radius: 5px;
+  text-decoration: none;
+  color: #fff;
+  position: relative;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.btn:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+
+.blue {
+  background-color: #55acee;
+  box-shadow: 0px 5px 0px 0px #3C93D5;
+}
+
+.blue:hover {
+  background-color: #6FC6FF;
+}
+
+.green {
+  background-color: #2ecc71;
+  box-shadow: 0px 5px 0px 0px #15B358;
+}
+
+.green:hover {
+  background-color: #48E68B;
+}
+
+.red {
+  background-color: #e74c3c;
+  box-shadow: 0px 5px 0px 0px #CE3323;
+}
+
+.red:hover {
+  background-color: #FF6656;
+}
+
+.purple {
+  background-color: #9b59b6;
+  box-shadow: 0px 5px 0px 0px #82409D;
+}
+
+.purple:hover {
+  background-color: #B573D0;
+}
+
+.orange {
+  background-color: #e67e22;
+  box-shadow: 0px 5px 0px 0px #CD6509;
+}
+
+.orange:hover {
+  background-color: #FF983C;
+}
+
+.yellow {
+  background-color: #f1c40f;
+  box-shadow: 0px 5px 0px 0px #D8AB00;
+}
+
+.yellow:hover {
+  background-color: #FFDE29;
+}
+
+.button-link, .button-link:hover{
+    font-family: arial;
+    font-size: 17px;
+    font-weight: bold;
+}
 
 
