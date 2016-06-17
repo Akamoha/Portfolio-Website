@@ -1,8 +1,7 @@
 Portfolio-Website
 =================
 
-This is Akshay Damle's portfolio website, developed from scratch (mostly :P)
-Feel free to use it as a template.
+Portfolio website from first year. Basically old af.
 
 =================
 
